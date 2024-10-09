@@ -1,0 +1,4 @@
+alias syslog='tail -f /var/log/syslog'
+alias zshrc='vim ~/.zshrc'
+alias src='source ~/.zshrc'
+alias aliases='vim ~/aliases'
